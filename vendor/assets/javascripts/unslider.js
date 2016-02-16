@@ -65,7 +65,7 @@
 			ul.css({position: 'relative', left: 0, width: (len * 100) + '%'});
 			if(o.fluid) {
 				li.css({'float': 'left', width: (100 / len) + '%'});
-			} else {|
+			} else {
 				li.css({'float': 'left', width: (_.max[0]) + 'px'});
 			}
 
