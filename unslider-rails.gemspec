@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name            = 'unslider-rails'
-  s.version         = '0.0.5'
+  s.version         = '0.0.6'
   s.date            = '2016-02-16'
   s.summary         = 'Unslider jQuery Plugin on Rails asset pipeline'
   s.description     = 'This gem provides unslider javascript on Rails'
